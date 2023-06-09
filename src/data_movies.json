@@ -1,0 +1,212 @@
+[
+    {
+        "id":1,
+        "title": "Toy Story",
+        "description": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom.",
+        "image": "1.jpg",
+        "director": "John Lasseter",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0114709",
+        "avgRating": 4.2
+    },
+    {
+        "id":2,
+        "title": "GoldenEye",
+        "description": "Years after a friend and fellow 00 agent is killed on a joint mission, a Russian crime syndicate steals a secret space-based weapons program known as \"GoldenEye\" and James Bond has to stop them from using it.",
+        "image": "2.jpg",
+        "director": "Martin Campbell",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0113189",
+        "avgRating": 3.77
+    },
+    {
+        "id":3,
+        "title": "City Hall",
+        "description": "The accidental shooting of a boy in New York leads to an investigation by the Deputy Mayor, and unexpectedly far-reaching consequences.",
+        "image": "3.jpg",
+        "director": "Harold Becker",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0115907",
+        "avgRating": 2.76
+    },
+    {
+        "id":4,
+        "title": "Bottle Rocket",
+        "description": "Three friends plan to pull off a simple robbery and go on the run.",
+        "image": "4.jpg",
+        "director": "Wes Anderson",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0115734",
+        "avgRating": 3.5
+    },
+    {
+        "id":5,
+        "title": "Mr. Wrong",
+        "description": "A lonely single woman finds the seemingly-perfect man to date, but soon regrets it when his deranged, possessive other personality emerges and she cannot convince anyone else of his Jekyll-and-Hyde true nature.",
+        "image": "5.jpg",
+        "director": "Nick Castle",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0117102",
+        "avgRating": 4.9
+    },
+    {
+        "id":6,
+        "title": "Unforgettable",
+        "description": "A medical examiner, who was suspected of murdering his wife, is trying an experimental drug to retrieve his wife's and others' memory and maybe find the killer and the mass murderer in a related present case.",
+        "image": "6.jpg",
+        "director": "John Dahl",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0118040",
+        "avgRating": 5
+    },
+    {
+        "id":7,
+        "title": "Happy Gilmore",
+        "description": "A rejected hockey player puts his skills to the golf course to save his grandmother's house.",
+        "image": "7.jpg",
+        "director": "Dennis Dugan",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0116483",
+        "avgRating": 3.2
+    },
+    {
+        "id":8,
+        "title": "The Bridges of Madison County",
+        "description": "Photographer Robert Kincaid wanders into the life of housewife Francesca Johnson for four days in the 1960s.",
+        "image": "8.jpg",
+        "director": "Clint Eastwood",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112579",
+        "avgRating": 1.77
+    },
+    {
+        "id":9,
+        "title": "Nobody Loves Me",
+        "description": "On the brink of her 30th birthday, Fanny feels the door to marital happiness closing on her. She is obsessed with death and even visits evening classes on dying, so it seems fitting that she encounters a skeleton in the malfunctio...",
+        "image": "9.jpg",
+        "director": "Doris D\u00f6rrie",
+        "year": "1994",
+        "imdbLink": "https://imdb.com/title/tt0110251",
+        "avgRating": 2.97
+    },
+    {
+        "id":10,
+        "title": "Muppet Treasure Island",
+        "description": "The Muppets' twist on the classic tale.",
+        "image": "10.jpg",
+        "director": "Brian Henson, David Lane",
+        "year": "1996",
+        "imdbLink": "https://imdb.com/title/tt0117110",
+        "avgRating": 4.67
+    },
+    {
+        "id":11,
+        "title": "Catwalk",
+        "description": "A camera follows model Christy Turlington through the spring fashion shows in Milan, Paris, and New York one year in the early 1990s, probably 1992. She and others dash from one designer's unveilings to another. Extended footage l...",
+        "image": "11.jpg",
+        "director": "Robert Leacock",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112646",
+        "avgRating": 4.56
+    },
+    {
+        "id":12,
+        "title": "The American President",
+        "description": "A widowed U.S. President running for reelection and an environmental lobbyist fall in love. It's all above-board, but \"politics is perception,\" and sparks fly anyway.",
+        "image": "12.jpg",
+        "director": "Rob Reiner",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112346",
+        "avgRating": 3.87
+    },
+    {
+        "id":13,
+        "title": "Braveheart",
+        "description": "Scottish warrior William Wallace leads his countrymen in a rebellion to free his homeland from the tyranny of King Edward I of England.",
+        "image": "13.jpg",
+        "director": "Mel Gibson",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112573",
+        "avgRating": 3.76
+    },
+    {
+        "id":14,
+        "title": "Taxi Driver",
+        "description": "A mentally unstable veteran works as a nighttime taxi driver in New York City, where the perceived decadence and sleaze fuels his urge for violent action.",
+        "image": "14.jpg",
+        "director": "Martin Scorsese",
+        "year": "1976",
+        "imdbLink": "https://imdb.com/title/tt0075314",
+        "avgRating": 2.34
+    },
+    {
+        "id":15,
+        "title": "Rumble in the Bronx",
+        "description": "A young man visiting and helping his uncle in New York City finds himself forced to fight a street gang and the mob with his martial art skills.",
+        "image": "15.jpg",
+        "director": "Stanley Tong",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0113326",
+        "avgRating": 2.33
+    },
+    {
+        "id":16,
+        "title": "Dracula: Dead and Loving It",
+        "description": "Mel Brooks' parody of the classic vampire story and its famous film adaptations.",
+        "image": "16.jpg",
+        "director": "Mel Brooks",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112896",
+        "avgRating": 4.67
+    },
+    {
+        "id":17,
+        "title": "Balto",
+        "description": "An outcast Husky risks his life with other sled dogs to prevent a deadly epidemic from ravaging Nome, Alaska.",
+        "image": "17.jpg",
+        "director": "Simon Wells",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112453",
+        "avgRating": 4.87
+    },
+    {
+        "id":18,
+        "title": "Nixon",
+        "description": "A biographical story of former U.S. President Richard Nixon, from his days as a young boy, to his eventual Presidency, which ended in shame.",
+        "image": "18.jpg",
+        "director": "Oliver Stone",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0113987",
+        "avgRating": 3.64
+    },
+    {
+        "id":19,
+        "title": "Cutthroat Island",
+        "description": "A female pirate and her companion race against their rivals to find a hidden island that contains a fabulous treasure.",
+        "image": "19.jpg",
+        "director": "Renny Harlin",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112760",
+        "avgRating": 3.56
+    },
+    {
+        "id":20,
+        "title": "Casino",
+        "description": "A tale of greed, deception, money, power, and murder occur between two best friends: a mafia enforcer and a casino executive compete against each other over a gambling empire, and over a fast-living and fast-loving socialite.",
+        "image": "20.jpg",
+        "director": "Martin Scorsese",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0112641",
+        "avgRating": 4.57
+    },
+    {
+        "id":21,
+        "title": "Sense and Sensibility",
+        "description": "Rich Mr. Dashwood dies, leaving his second wife and her three daughters poor by the rules of inheritance. The two eldest daughters are the title opposites.",
+        "image": "21.jpg",
+        "director": "Ang Lee",
+        "year": "1995",
+        "imdbLink": "https://imdb.com/title/tt0114388",
+        "avgRating": 4.98
+    }
+]
